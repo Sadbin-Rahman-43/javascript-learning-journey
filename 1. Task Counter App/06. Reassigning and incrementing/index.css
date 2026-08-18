@@ -1,0 +1,8 @@
+body {
+  background-image: url("bg.webp");
+  background-size: cover;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
